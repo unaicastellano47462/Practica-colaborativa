@@ -1,11 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-
-
-        Scanner input = new Scanner(System.in);
-        System.out.println("Digite su nombre: ");
-        String nome = input.nextLine();
+    public static void main(String[] args) {    }
+    public static void uno (){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Echo por Unai");
     }
 }
